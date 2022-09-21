@@ -71,4 +71,13 @@ I also created this URL for monitoring any new regulations related to "interoper
 
 #### Creating Google Alerts RSS Feeds From Hacked Together URLs
 
+![image](https://user-images.githubusercontent.com/36210507/191569022-960eb855-e4c0-4919-97b7-7beb04d8a9d5.png)
+
+
 #### Setting Up Feedreader to 
+
+![image](https://user-images.githubusercontent.com/36210507/191569385-f7ada3d9-63cd-4d4e-b73f-56917775d9ab.png)
+
+![image](https://user-images.githubusercontent.com/36210507/191569670-eca6b9b3-e7d2-4fb4-a4e5-5942dfa01773.png)
+
+
