@@ -1,4 +1,4 @@
-# How I Once Hacked Together a Kind of Solution for Monitoring Laws, Regulations, and Standards Topics on the Web 
+# A Hacked Together "Kind of" Solution for Monitoring Laws, Regulations, and Standards Topics on the Web 
 ## Time Required
 ### Setup
 About half a day. Your mileage will vary.
